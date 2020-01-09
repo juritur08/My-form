@@ -1,0 +1,47 @@
+
+	body {
+	background-color:#644536;
+	}
+	
+	h2{
+	font-family:"Calibri";
+	margin:0px 0px 0px 10px;
+	}
+	
+	
+	.form{
+	background-color:#c4a381;
+	padding:330px;
+	}
+	
+	section{
+	font-family:"Calibri"; 
+	border-radius:10px;
+	}
+	
+	
+	input[type=text],[type=date] {
+		border:none;
+		background-color:#eef1bd;
+		margin: 0px 4px 4px 0px;
+		
+	}
+	
+	select{
+	border: none;
+	background-color:#eef1bd;
+	padding: 0px 50px;
+	}
+
+	
+	button{
+	padding:10px 30px 10px 30px;
+	background-color:#c3c69b;
+	border:black 0.2px solid;
+	margin:0px 0px 0px 70px
+	}
+	
+	button{
+	border-radius:5px;
+	
+	}
